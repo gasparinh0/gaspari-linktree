@@ -126,7 +126,7 @@ function App() {
             </div>
           </a>
 
-          <a href='https://www.linkedin.com/in/lucasgaspari2004/' target='_blank' rel='noopener noreferrer'>
+          <a href='https://portfolio-gasparinh0.vercel.app/' target='_blank' rel='noopener noreferrer'>
             <div className="bg-white bg-opacity-50 border-2 border-white p-3 rounded-xl mt-4 flex transition-all justify-center transform hover:scale-105 cursor-pointer shadow-xl">
               <AiFillBook size={27} />
               <h1 className='ml-1 text-lg'>Acesse meu portfólio</h1>
